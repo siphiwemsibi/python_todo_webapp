@@ -1,0 +1,4 @@
+learn python
+edit member
+add functions
+test local app
